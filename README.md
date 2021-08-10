@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @xZqrxy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning php and Aoi.js
-- 📫 How to reach me discord 
-
-<!---
-xZqrxy/xZqrxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ign: xZqrxy/outsidecandle8
+youtube: outsidecandle8
+discord server: https://discord.gg/SXYGp94AyU
+about me:
+starter in php and aoi.js
