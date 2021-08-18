@@ -1,5 +1,3 @@
-ign: xZqrxy/outsidecandle8
-youtube: outsidecandle8
-discord server: https://discord.gg/SXYGp94AyU
-about me:
-starter in php and aoi.js
+👋 Hi, I’m xZqrxy\Outsidecandle8
+👀 I’m interested in PocketMine-MP
+🌱 I’m currently learning PHP
